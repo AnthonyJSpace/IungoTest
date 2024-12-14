@@ -1,11 +1,5 @@
 [
     {
-        "manufacturer": "Ford",
-        "model": "Prefect",
-        "top_speed": 61,
-        "age": 64
-    },
-    {
         "manufacturer": "Bugatti",
         "model": "EB 110 GT",
         "top_speed": 221,
